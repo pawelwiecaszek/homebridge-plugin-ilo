@@ -1,0 +1,14 @@
+{
+  "name": "homebridge-plugin-ilo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "homebridge": ">=0.2.5"
+  },
+  "author": "pawelwiecaszek",
+  "license": "MIT"
+}
